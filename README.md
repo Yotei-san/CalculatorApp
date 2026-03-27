@@ -89,6 +89,6 @@ Deseja fazer outro cálculo? (s/n): n
 
 ---
 
-**Autor:** Seu Nome  
+**Autor:** Arthur Angelo De Jesus  
 **Linguagem:** C#  
 **Nível:** Iniciante ⭐
