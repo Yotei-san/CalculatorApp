@@ -1,0 +1,36 @@
+# Diretórios de compilação
+bin/
+obj/
+Debug/
+Release/
+
+# Arquivos de projeto Visual Studio
+*.userprefs
+*.csproj.user
+*.user
+*.suo
+*.sln.docstates
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Caches
+.vs/
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Qualquer arquivo gerado
+*.o
+*.a
+*.dll
+*.exe
+*.pdb
